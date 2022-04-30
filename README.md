@@ -2,7 +2,6 @@
 - 💻 I'm software engineer from  🇧🇷
 - 🏢 I'm currently working at **[Loft](https://loft.com.br/)**  🧡
 - 📝 I'm Oracle Java Certified
-- ⚙️ I use daily: `.java`, `.class`, `.ts`, `.js`
 - 🌱 Learning all about **NodeJs, Typescript, Golang**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/diogocarvs)
   
