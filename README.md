@@ -1,7 +1,7 @@
 ### Hello, Diogo Carvalho here 🖖
 - 💻 I'm software engineer from  🇧🇷
 - 📝 I'm Oracle Java Certified
-- 🌱 Learning all about **NodeJs, Typescript, Golang**
+- 🌱 Learning all about **NodeJs, Typescript**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/diogocarvs)
   
 <!---  
